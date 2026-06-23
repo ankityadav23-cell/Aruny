@@ -1,0 +1,91 @@
+# Manuscript Revision Brief — Senior Academic Editor / Scopus Reviewer Mode
+
+Act as a senior academic editor, Scopus/Web of Science-indexed journal reviewer, and research methodology expert. The manuscript needs stronger citation integration, a more developed Introduction, and high-impact journal-level flow — while preserving the original research contribution. Deliverable: a fully revised, publication-ready manuscript for a high-impact indexed journal.
+
+Top three priorities, in order: **(1)** Introduction development **(2)** Citation enrichment **(3)** Scholarly flow and argument-building.
+
+---
+
+## 1. Citation & Sourcing Standards (governs the whole manuscript)
+
+This is the master rule. Sections 2 and 3 below reference it rather than restating it.
+
+- **Sources:** Scopus-indexed and Web of Science journal articles, peer-reviewed scholarly work, reputable books, and official reports only. No fake, hallucinated, or unverifiable references.
+- **Recency:** Prefer 2020–2026 publications; retain foundational/classic studies where theoretically necessary.
+- **Coverage:** Every major claim, argument, construct explanation, and discussion point carries a citation.
+- **Formatting:** APA 7th edition throughout — accurate in-text citations, full reference entries, DOIs where available.
+- **No orphans:** Every in-text citation has a matching reference-list entry, and every reference-list entry is cited at least once in text.
+
+---
+
+## 2. Introduction — Full Redevelopment
+
+Rebuild as one academic narrative, in exactly this sequence:
+
+**Broad Context → Problem → Literature Insight → Gap → Need for Study → Objectives → Contribution → Paper Structure**
+
+1. **Background and Context** — global/academic context; show why the topic matters now. (Citations per §1.)
+2. **Problem Statement** — the practical and theoretical problem; what's unresolved, including contradictions or emerging trends.
+3. **Literature Insight** — build the argument paragraph-by-paragraph with evidence, not generic claims.
+4. **Research Gap** — name the specific gap(s): conceptual, methodological, contextual, geographical, and/or theoretical. Show what prior studies failed to address.
+5. **Need for the Study** — covers both:
+   - *Theoretical justification* — connect constructs/relationships to relevant theories, models, or frameworks.
+   - *Significance* — theoretical, managerial, policy, sustainability, and societal relevance.
+6. **Research Objectives** — aligned directly with the identified gap.
+7. **Contribution Statement** — originality/novelty, and how the paper advances the literature.
+8. **Paper Structure** — short closing roadmap of the remaining sections.
+
+---
+
+## 3. Literature Review & Hypotheses Development
+
+- Strengthen the literature review, conceptual framework, and theoretical argumentation (citations per §1).
+- For each hypothesis:
+  - Literature-backed reasoning rather than assertion.
+  - Compare prior findings (where they agree/disagree).
+  - Justify the expected relationship academically.
+  - Improve logical coherence between hypotheses.
+
+---
+
+## 4. Methodology & Analysis Verification
+
+One unified check, combining reporting-consistency and substantive review:
+
+- **Numeric consistency** — build a master table of every statistic that appears more than once (sample size, response rate, α, CR, AVE, HTMT, β, t-values, p-values, R², Q², f²) and confirm each value matches everywhere it's repeated.
+- **Hypothesis decisions** — every hypothesis has an explicit Supported/Not Supported call, consistent with the coefficient's direction and significance.
+- **Table/figure referencing** — sequential numbering; every table/figure referenced in text at least once; nothing unreferenced in either direction.
+- **Item fidelity** — measurement-item wording/codes in the final Methodology table exactly match what was actually administered; no silent post-hoc edits.
+- **Threshold interpretation** — reliability/validity values judged against standard benchmarks (α, CR ≥ 0.70; AVE ≥ 0.50; HTMT < 0.85–0.90 depending on construct similarity).
+- **Substantive review** — reliability, validity, descriptives, SEM/regression output, hypothesis testing, and mediation/moderation analysis reviewed for interpretation accuracy; correct any weak explanations, statistical inconsistencies, or unsupported conclusions.
+
+---
+
+## 5. Tables and Figures
+
+- Restructure into professional journal format; improve titles and notes for readability.
+- Remove redundant tables; merge overlapping ones where meaningful.
+- Confirm every table/figure discussion in the text matches the reported values (cross-check against §4).
+
+---
+
+## 6. Writing Quality — Tone, Coherence & Mechanics
+
+**Tone and coherence**
+- Calibrate hedging: avoid overclaiming ("proves," "demonstrates conclusively") and excessive hedging ("might possibly perhaps suggest"); prefer "indicates," "supports," "is consistent with."
+- No paragraph merely restates a point made elsewhere without adding new information.
+
+**Mechanics**
+- Run grammar/spelling/punctuation through a checker (Grammarly, LanguageTool, or Word's built-in tool).
+- No sentence over ~30 words (≈3 printed lines); split longer sentences.
+- Voice is deliberate: Methods/Results may use passive ("data were collected"); Discussion/Implications read stronger in active voice.
+- Tense consistent by convention: present for established theory, past for prior findings and your own Results, future/past in Methodology depending on whether data collection is complete.
+- One spelling convention throughout — British or American, never mixed.
+- Every construct named identically everywhere — keep a one-page term glossary (e.g., don't let "Value Co-Creation," "Co-Created Value," and "VCC" drift into different meanings).
+- Every acronym defined in full at first use, then used consistently in abbreviated form afterward.
+
+---
+
+## 7. Final Deliverable
+
+Provide the fully revised manuscript.
