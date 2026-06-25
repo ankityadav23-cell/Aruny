@@ -18,7 +18,28 @@ This is the master rule. Sections 2 and 3 below reference it rather than restati
 
 ---
 
-## 2. Introduction — Full Redevelopment
+## 2. Keep Total length: 8,500–9,500 words, adjusting the different sections as per below limits:
+Title should be Specific yet attractive	(12–18 words)
+Abstract should contain the Complete story (180–250 words) 2% of whole
+Introduction should Build on research gap (900–1500 words) 12–15% of whole
+Theory Development should Explain why relationships exist (800–1500 words) 8–12% of whole
+Literature Review should Synthesize, don't summarize (1200–2200 word) 15–20% of whole
+Hypotheses Development should Justify each hypothesis (1200–2500 words) 15–20% of whole
+Methodology should Ensure reproducibility (1200–1800 words) 12–15% of whole
+Results should Present evidence, not interpretation (1500–2500 words) 15–20% of whole
+Discussion should Explain findings (1200–1800 words) 12–15% of whole
+Implications should produce Theoretical and practical significance (500–900 words) 5–7% of whole
+Limitations & Future Research should Honest reflection (250–500 words) 2–4% of whole
+Conclusion should produce Key takeaways (250–500 words) 2–4% of whole
+
+
+
+## 3. SECTION 1. Introduction
+
+Recommended Style
+✔ No subheadings, avoid creating separate headings
+✔ One continuous narrative.
+✔ Coherent paragraphs.
 
 Rebuild as one academic narrative, in exactly this sequence:
 
@@ -37,7 +58,62 @@ Rebuild as one academic narrative, in exactly this sequence:
 
 ---
 
-## 3. Literature Review & Hypotheses Development
+## 4. SECTION 2. THEORETICAL FRAMEWORK
+This section is increasingly expected in high-quality management research.
+Suggested Structure
+Paragraph 1
+Introduce
+•	Theory selection 
+•	Why these theories? 
+•	Why not competing theories? 
+________________________________________
+Paragraph 2
+Explain
+How Theory A
+•	
+Theory B
+•	
+Theory C
+jointly explain the phenomenon.
+This paragraph should clearly articulate the conceptual integration rather than discussing each theory independently.
+________________________________________
+Paragraph 3
+Explain construct selection.
+Example
+Guided by the integrated theoretical perspective, six predictor constructs were selected because each represents a theoretically distinct mechanism...
+________________________________________
+Paragraph 4
+Conceptual model discussion.
+Describe the logic of the proposed framework before presenting the figure.
+Avoid simply stating:
+Figure 1 presents the conceptual framework.
+Instead explain the relationships the framework is designed to capture.
+________________________________________
+Finally
+Insert
+Figure 1.
+Conceptual Framework
+________________________________________
+No Hypotheses Here
+Avoid discussing hypotheses in this section.
+The theoretical framework should explain the conceptual logic, not test specific relationships.
+
+## 5. SECTION 3. Literature Review & Hypotheses Development
+
+Recommended Style
+✔ No subheadings, avoid creating separate headings
+✔ One continuous narrative.
+✔ Coherent paragraphs.
+
+Just One Opening Paragraph (One synthesis paragraph)
+Purpose:
+•	Introduce the constructs. 
+•	Explain the sequence. 
+•	Justify why these variables are examined together. 
+This paragraph should orient the reader before individual hypotheses.
+________________________________________
+
+Then, One subsection per hypothesis.
 
 - Strengthen the literature review, conceptual framework, and theoretical argumentation (citations per §1).
 - For each hypothesis:
@@ -46,9 +122,51 @@ Rebuild as one academic narrative, in exactly this sequence:
   - Justify the expected relationship academically.
   - Improve logical coherence between hypotheses.
 
+Do not close the paragraph abruptly stating:
+H2: Service quality positively affects satisfaction.
+
+Better Write:
+Based on the foregoing theoretical arguments and empirical evidence, it is hypothesized that:
+H2. Service quality positively affects customer satisfaction.
+This provides a smoother transition.
+________________________________________
+
+
 ---
 
-## 4. Methodology & Analysis Verification
+## 6. RSECTION 4. esearch Methodology & Analysis Verification
+
+Multiple subheadings are appropriate here., Recommended subsections:
+
+- Research Design
+- Sampling Procedure
+- Sample Size
+- Data Collection
+- Measurement Development
+- Pilot Study
+- Ethical Considerations
+- Common Method Bias
+- Data Analysis Technique
+Every subsection should be evidence-based and sufficiently detailed for replication.
+
+---
+
+## 7. SECTION 5. Results
+Recommended order:
+5.1 Respondent Profile
+5.2 Preliminary Analysis
+5.3 Common Method Bias
+5.4 Measurement Model
+5.5 Reliability
+5.6 Convergent Validity
+5.7 Discriminant Validity
+5.8 Structural Model
+5.9 Hypothesis Testing
+5.10 Mediation
+5.11 Moderation
+5.12 Robustness Checks
+5.13 Predictive Power (PLSpredict/Q²)
+Only include analyses that were actually conducted.
 
 One unified check, combining reporting-consistency and substantive review:
 
@@ -61,7 +179,7 @@ One unified check, combining reporting-consistency and substantive review:
 
 ---
 
-## 5. Tables and Figures
+## 8. Tables and Figures
 
 - Restructure into professional journal format; improve titles and notes for readability.
 - Remove redundant tables; merge overlapping ones where meaningful.
@@ -69,7 +187,120 @@ One unified check, combining reporting-consistency and substantive review:
 
 ---
 
-## 6. Writing Quality — Tone, Coherence & Mechanics
+## 9. SECTION 6. DISCUSSION
+This is another section where experienced authors differ from beginners.
+- No Subheadings
+- Usually preferred.
+- Use multiple flowing paragraphs.
+- Each paragraph should explain:
+Finding
+↓
+Comparison
+↓
+Reason
+↓
+Theory
+↓
+Contribution
+Do not merely restate statistical significance.
+________________________________________
+Don't Repeat Numbers
+Incorrect:
+H3 was significant (β=.42, p<.001).
+Instead:
+The findings indicate that perceived usefulness plays a central role in fostering adoption, reinforcing earlier evidence while extending it to...
+The statistical evidence has already been presented in the Results section.
+
+---
+
+## 10. SECTION 7. IMPLICATIONS
+Only two subsections.
+7.1 Theoretical Implications
+Multiple paragraphs.
+Suggested flow:
+Paragraph 1
+Theory extension
+↓
+Paragraph 2
+New mechanisms
+↓
+Paragraph 3
+Boundary conditions
+↓
+Paragraph 4
+Contribution to literature
+________________________________________
+7.2 Practical Implications
+Multiple paragraphs.
+Avoid generic recommendations.
+Organize by stakeholder:
+Managers
+↓
+Organizations
+↓
+Policy makers
+↓
+Technology developers
+↓
+Consumers
+Each paragraph should end with a clear managerial implication.
+
+---
+
+## 11. SECTION 8. DISCUSSION
+________________________________________
+SECTION 8. LIMITATIONS & FUTURE RESEARCH
+Two subsections only.
+________________________________________
+8.1 Limitations
+Avoid apologizing.
+State limitations objectively.
+Example
+Cross-sectional design.
+↓
+Single country.
+↓
+Self-reported measures.
+↓
+Specific industry.
+Do not undermine the value of your work.
+________________________________________
+8.2 Future Research
+Don't simply write
+"Future studies may..."
+Instead provide a research agenda.
+Examples:
+•	Cross-cultural validation. 
+•	Longitudinal studies. 
+•	Experimental designs. 
+•	Multi-source data. 
+•	New moderators. 
+•	New mediators. 
+•	Alternative theories. 
+•	Mixed methods. 
+•	AI-based analytics. 
+
+
+---
+
+## 12. SECTION 9. CONCLUSION
+No subheadings.
+One cohesive narrative.
+Typical structure:
+Objective
+↓
+Method
+↓
+Major findings
+↓
+Contribution
+↓
+Final message
+Avoid introducing new citations or arguments.
+
+---
+
+## 13. Writing Quality — Tone, Coherence & Mechanics
 
 **Tone and coherence**
 - Calibrate hedging: avoid overclaiming ("proves," "demonstrates conclusively") and excessive hedging ("might possibly perhaps suggest"); prefer "indicates," "supports," "is consistent with."
@@ -86,6 +317,6 @@ One unified check, combining reporting-consistency and substantive review:
 
 ---
 
-## 7. Final Deliverable
+## 14. Final Deliverable
 
 Provide the fully revised manuscript.
